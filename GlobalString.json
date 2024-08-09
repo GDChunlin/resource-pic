@@ -1,0 +1,58 @@
+{
+    "generic"                            :   {
+        "learn.more"                              :   "Learn more"
+
+    },
+    "financial.health"                   :   {
+        "tile.title"                              :   "Experian %1$s Credit Care %2$s Advantage",
+        "tile.description"                        :   "Raise your credit scores instantly and get your FICO® Score for free.",
+
+        "landing.tap.warning"                     :   "By tapping below, I authorize %s to share my personal information including my Social security number with Experian.",
+        "landing.header.plus"                     :   "Plus, get free access to your Experian credit report and identity theft protection features when you enroll in Experian Credit Care Advantage™ ",
+        "landing.only.experian"                   :   "Only Experian can raise your FICO Score¹ instantly – free with Experian Boost®²",
+        "landing.for.first.time"                  :   "For the first time ever, get credit for your Netflix, Hulu™, Disney+™, HBO™, phone and utility payments when you pay with your %s account.",
+        "landing.credit.report.title"             :   "Stay up to date with access to your free Experian credit report and FICO® Score¹",
+        "landing.credit.report.subtitle"          :   "Your credit scores are calculated from the information found in your credit report. See the factors influencing your FICO® Score, including payment history, amount of debt, credit history length, amount of new credit, and credit mix.",
+        "landing.credit.score"                    :   "Experian Credit Report and Fico® Score refreshed every 30 days",
+        "landing.credit.user"                     :   "Monitoring of your Experian Credit Report and Fico® Score with alerts",
+        "landing.credit.card"                     :   "Credit cards and loans matched for you",
+        "landing.web.surveillance.title"          :   "Take better control of your identity",
+        "landing.web.surveillance.subtitle"       :   "with identity theft monitoring, alerts, and dark web surveillance",
+        "landing.web.surveillance.desc"           :   "Dark Web Internet Surveillance monitors the depths of the web daily to identify activity associated with your identity. We\\'ll notify you immediately if any exposure of your monitored personal data is found. Experian looks for information in the following locations:",
+        "landing.web.surveillance.globe"          :   "Web pages, blogs, bulletin boards, peer-to-peer sharing networks, forums and chat rooms",
+        "landing.web.surveillance.desktop"        :   "Malware samples",
+        "landing.web.surveillance.share"          :   "Social media feeds",
+        "landing.web.surveillance.file"           :   "Web services, servers and file transmissions",
+        "landing.credit.lock.title"               :   "Control at your fingertips with Experian CreditLock",
+        "landing.credit.lock.subtitle"            :   "With Experian CreditLock you have the ability to control who can access your Experian credit file with the touch of a button. Lock your credit file keeping fraudsters and identity thieves away.",
+        "landing.credit.lock.lock"                :   "Lock your Experian credit file to protect against identity theft",
+        "landing.credit.lock.stop"                :   "Unauthorized access to your credit file is blocked",
+        "landing.credit.lock.warning"             :   "Real-time alerts if anyone applies for credit in your name",
+        "landing.credit.lock.key"                 :   "Easily lock and unlock your Experian credit file anytime",
+        "landing.credit.score.tips"               :   "¹ Credit Score is calculated based on FICO® Score 8 model, unless otherwise noted. In addition to the FICO® Score 8, we may offer and provide other base or industry-specific FICO Scores (Such as FICO® Auto Scored and FICO® Bankcard Scores). Your lender or insurer may use a different FICO® Score than FICO® Score 8 or such other base or industry-specific FICO® Score (if available), or another type of credit score altogether. Learn more.",
+        "landing.boost.tips"                      :   "² Results will vary. Not all payments are boost-eligible. Some users may not receive an improved score or approval odds. Not all lenders use Experian credit files, and not all lenders use scores impacted by Experian Boost®. Learn more.",
+        "landing.header"                          :   "Raise your credit scores\\n instantly and get your FICO®\\n Score for free¹",
+        "landing.enroll"                          :   "Enroll me in a free Experian account",
+
+        "opt.out.title"                           :   "Disconnect my Experian account",
+        "opt.out.subtitle"                        :   "If you wish to disconnect your Experian account from %s, please read the following:",
+        "opt.out.info1"                           :   "1. %s will disconnect your access to your Experian account from the %s app and website. This means access to the tools provided with \\\"Experian Credit Care Advantage™\\\" will only be available via Experian.com or until you re-connect your %s account to your Experian account.",
+        "opt.out.info2"                           :   "2. %s will no longer share data for the purposes of the Experian Boost feature. This could impact your FICO® Score.",
+        "opt.out.info3"                           :   "3. You will still have an \\\"Experian Credit Care Advantage\\\" membership that you can log into and access at Experian.com.",
+        "opt.out.info4"                           :   "4. Experian may still contact you directly.",
+        "opt.out.info5"                           :   "5. You can re-connect access to your Experian  membership at any time by choosing any \\\"Experian Credit Care Advantage\\\" feature and agreeing to the terms and conditions.",
+        "opt.out.disclaimer"                      :   "I have read and understand the above conditions of disconnecting my Experian account from %s.",
+        "opt.out.disconnect"                      :   "Disconnect my Experian account",
+        "opt.out.success.title"                   :   "You have successfully disconnected your Experian account from %s",
+        "opt.out.success.subtitle"                :   "You can re-connect access to your Experian membership at any time by choosing any \\\"Experian Credit Care Advantage™\\\" feature and agreeing to the terms and conditions.",
+        "opt.out.error.title"                     :   "Disconnect my Experian account",
+        "opt.out.error.subtitle"                  :   "Please try again later.",
+        "opt.out.error.generic"                   :   "We were not able to open your Experian account at this time"
+    },
+    "android.specific"                              :   {
+
+    },
+    "ios.specific"                                  :   {
+
+    }
+}
